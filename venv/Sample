@@ -1,0 +1,11 @@
+
+
+name=input("Enter Name : ")
+contact=input("Contact Num : ")
+age=input("Enter Age : ")
+
+print("\nName is "+name+"\nContact"+contact+" age "+age)
+print("\nHello")
+
+
+
